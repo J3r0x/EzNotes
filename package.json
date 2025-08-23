@@ -1,0 +1,17 @@
+{
+  "name": "appnotes",
+  "version": "1.0.0",
+  "description": "Este proyecto es una aplicación web de notas. Incluye:\r - Frontend (React)\r - Backend (Node.js + Express)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
