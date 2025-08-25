@@ -1,3 +1,0 @@
-// Legacy CRA entry left for reference. Vite uses `src/main.jsx` as the app entry.
-// If you prefer, remove this file after migration.
-// ...existing code...
